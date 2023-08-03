@@ -27,4 +27,3 @@
 
 ###
 
- ![Snake animation](https://github.com/RodrigoCarvalhov/RodrigoCarvalhov/blob/output/github-contribution-grid-snake.svg)
